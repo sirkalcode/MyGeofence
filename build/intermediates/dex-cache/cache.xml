@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\sirsingandla\AndroidStudioProjects\GeofenceDetection1\app\build\intermediates\exploded-aar\com.google.android.gms\play-services\5.0.89\classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="d71573c9c5ea98a8db47ad6ff993a63d492b3bfa">
+        <dex dex="C:\Users\sirsingandla\AndroidStudioProjects\GeofenceDetection1\app\build\intermediates\pre-dexed\debug\classes-d446c19489a9afc31bbe19d13f18cfc5eb731ef3.jar" />
+    </item>
+    <item
+        jar="C:\Program Files\Android_SDK\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="C:\Users\sirsingandla\AndroidStudioProjects\GeofenceDetection1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b19f815b6cde4604578b93033a006f79fc2ad1b8.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,3 @@
+C:\Users\sirsingandla\AndroidStudioProjects\GeofenceDetection1\app\build\intermediates\classes\debug
+C:\Users\sirsingandla\AndroidStudioProjects\GeofenceDetection1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0-b19f815b6cde4604578b93033a006f79fc2ad1b8.jar
+C:\Users\sirsingandla\AndroidStudioProjects\GeofenceDetection1\app\build\intermediates\pre-dexed\debug\classes-d446c19489a9afc31bbe19d13f18cfc5eb731ef3.jar
